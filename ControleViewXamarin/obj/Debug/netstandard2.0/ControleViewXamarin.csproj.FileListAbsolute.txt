@@ -1,0 +1,13 @@
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\bin\Debug\netstandard2.0\ControleViewXamarin.deps.json
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\bin\Debug\netstandard2.0\ControleViewXamarin.dll
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\bin\Debug\netstandard2.0\ControleViewXamarin.pdb
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.csprojAssemblyReference.cache
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Menu\Master.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.csproj.CoreCompileInputs.cache
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.AssemblyInfoInputs.cache
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.AssemblyInfo.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.dll
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.pdb
