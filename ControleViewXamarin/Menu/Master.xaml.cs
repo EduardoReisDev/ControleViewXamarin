@@ -16,5 +16,10 @@ namespace ControleViewXamarin.Menu
         {
             InitializeComponent();
         }
+
+        private void GoActivityIndicatorPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.ActivityIndicatorPage();
+        }
     }
 }

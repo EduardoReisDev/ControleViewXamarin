@@ -11,3 +11,4 @@ C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.dll
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.pdb
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\ActivityIndicatorPage.xaml.g.cs

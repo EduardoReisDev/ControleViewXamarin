@@ -8,7 +8,9 @@
              x:Class="ControleViewXamarin.Menu.Master">
     <MasterDetailPage.Master>
         <ContentPage Title="Menu">
-            <!--Button-->
+            <StackLayout>
+                <Button Text="Activity Indicator" Clicked="GoActivityIndicatorPage"/>
+            </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>

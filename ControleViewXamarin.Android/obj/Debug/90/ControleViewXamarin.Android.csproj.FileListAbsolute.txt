@@ -495,3 +495,4 @@ C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin.Android\ob
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin.Android\bin\Debug\ControleViewXamarin.dll.mdb
