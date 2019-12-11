@@ -12,3 +12,5 @@ C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.dll
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\ControleViewXamarin.pdb
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\ActivityIndicatorPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\ProgressBarPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\BoxViewPage.xaml.g.cs

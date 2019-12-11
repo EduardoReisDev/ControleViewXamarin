@@ -21,5 +21,15 @@ namespace ControleViewXamarin.Menu
         {
             Detail = new Controles.ActivityIndicatorPage();
         }
+
+        private void GoProgressBarPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.ProgressBarPage();   
+        }
+
+        private void GoBoxViewPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.BoxViewPage();
+        }
     }
 }
