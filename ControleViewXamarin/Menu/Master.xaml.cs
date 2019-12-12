@@ -31,5 +31,20 @@ namespace ControleViewXamarin.Menu
         {
             Detail = new Controles.BoxViewPage();
         }
+
+        private void GoLabelPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.LabelPage();
+        }
+
+        private void GoButtonPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.ButtonPage();
+        }
+
+        private void GoEntryEditorPage(object senter, EventArgs args)
+        {
+            Detail = new Controles.EntryEditorPage();
+        }
     }
 }
