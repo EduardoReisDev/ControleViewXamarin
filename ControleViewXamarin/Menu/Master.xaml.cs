@@ -46,5 +46,25 @@ namespace ControleViewXamarin.Menu
         {
             Detail = new Controles.EntryEditorPage();
         }
+
+        private void GoDatePickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.DatePickerPage();
+        }
+
+        private void GoTimePickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.TimePickerPage();
+        }
+
+        private void GoPickerPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.PickerPage();
+        }
+
+        private void GoSearchBarPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.SearchBarPage();
+        }
     }
 }

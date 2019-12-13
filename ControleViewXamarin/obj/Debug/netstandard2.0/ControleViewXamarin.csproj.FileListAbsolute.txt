@@ -17,3 +17,7 @@ C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\LabelPage.xaml.g.cs
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\ButtonPage.xaml.g.cs
 C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\EntryEditorPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\DatePickerPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\TimePickerPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\PickerPage.xaml.g.cs
+C:\GitHub\ControleViewXamarin\ControleViewXamarin\ControleViewXamarin\obj\Debug\netstandard2.0\Controles\SearchBarPage.xaml.g.cs
