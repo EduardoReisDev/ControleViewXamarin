@@ -66,5 +66,13 @@ namespace ControleViewXamarin.Menu
         {
             Detail = new Controles.SearchBarPage();
         }
+        private void GoSliderStepperBarPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.SliderStepperPage();
+        }
+        private void GoSwitchPage(object sender, EventArgs args)
+        {
+            Detail = new Controles.SwitchPage();
+        }
     }
 }
