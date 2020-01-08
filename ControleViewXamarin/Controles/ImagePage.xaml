@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ControleViewXamarin.Controles.ImagePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image 
+                Source="https://4.bp.blogspot.com/-hGzRYUhG_eA/U6P9fKxgCSI/AAAAAAAAAFA/qF8UR5QHOq4/s1600/BMW_1954.png"
+                Aspect="AspectFit"
+                IsOpaque="True"
+                x:Name="ImageOne"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -74,5 +74,10 @@ namespace ControleViewXamarin.Menu
         {
             Detail = new Controles.SwitchPage();
         }
+
+        private void GoImagePage(object sender, EventArgs args)
+        {
+            Detail = new Controles.ImagePage();
+        }
     }
 }
